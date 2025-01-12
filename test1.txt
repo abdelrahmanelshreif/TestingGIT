@@ -1,2 +1,8 @@
 Start of Lab
 Khalid Branch
+
+
+#feture_1 
+Extracting Zip File
+Installing the new file
+Open the file 
